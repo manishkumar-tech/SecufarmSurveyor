@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor New/SecuFarmSurveyor/app/src/main/res/layout/create_scheduler_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/drawable/searchcustomsize.xml" value="0.2203125" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/activity_row.xml" value="0.1609375" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/addfarmonmap_new.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/admindashboard_new.xml" value="0.2" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/amount_pending_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cart_activity.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cattle_addfarmonmap.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cattleregistration.xml" value="0.75" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cattleregistrationdashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cattlesdashboards.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/choose_image_popup.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/create_scheduler_activity.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/createschedular_descp_dupont_adapter.xml" value="0.15" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/createschedular_description_adapter.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/cropstatus_popup.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/discuss_popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/farmerreactivation.xml" value="0.22" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/farmerreactivationfilter.xml" value="0.15" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/farmregistrationnew.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/farmvisitacitivity.xml" value="0.16" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/frag1_farmerdetails.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/fragment_locate_yout_farm.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/loginwithotp_new.xml" value="0.15" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/mainprofileact_dashboard.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/message_detail_activity.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/new_ndvi_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/new_soil_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/newhomescreen.xml" value="0.22" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/offlinesummaryform.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/offlinesummaryformadapter.xml" value="0.19010416666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/openbannerpopup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/order_history_activity.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/package_parctices.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/payment_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/placed_order_popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policyfarmlist.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policyfarmlistadapter.xml" value="0.22" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policylist.xml" value="0.25" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policyotpverification_popup.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policypayment.xml" value="0.25" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/policyregistrationnew.xml" value="0.21" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/pop_weather.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/popdashbaordfarmselection.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/popup_dashboardsync.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/popup_plantsdoctor.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/popupdates_imageupload_popup.xml" value="0.15" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/product_activity.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/product_row_new.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/scheduler_activity.xml" value="0.12" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/scheduleractivitylist.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/scheduleractivitylistadapter.xml" value="0.10960144927536232" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/search_farm_activity.xml" value="0.18" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/servicehistory.xml" value="0.1" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/servicehistoryadapter.xml" value="0.22" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/soil_doctor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/surveyor_amount_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Herojit/Android Studio Project/SecuFarmSurveyor/app/src/main/res/layout/youtubevideorecyclerview.xml" value="0.15" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/addfarmonmap_new.xml" value="0.21203703703703702" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/admindashboard_new.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/farmregistration.xml" value="0.20185185185185187" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/farmregistrationnew.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/fragment_locate_yout_farm.xml" value="0.1703125" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/home_activity.xml" value="0.2" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/mainprofileact_dashboard.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/new_dashboard.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/newhomescreen.xml" value="0.2" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/policyfarmlistadapter.xml" value="0.14635416666666667" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/policylist.xml" value="0.1703125" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/policyotpverification_popup.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/policypayment.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/policyregistrationnew.xml" value="0.2" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/popup_dashboardsync.xml" value="0.22083333333333333" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/popup_imagefarmerregistration.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/product_row_new.xml" value="0.2" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/scheduleractivitylist.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/search_farm_activity.xml" value="0.22083333333333333" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/servicehistory.xml" value="0.2171875" />
+        <entry key="..\:/Project_19_11_21_fresh/SecuFarmSurveyor/app/src/main/res/layout/servicehistoryadapter.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

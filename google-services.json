@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "274955346506",
+    "project_id": "secufarm-surveyor",
+    "storage_bucket": "secufarm-surveyor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274955346506:android:fc1f268a97608bbe39bcb3",
+        "android_client_info": {
+          "package_name": "com.wrms.secufarmsurveyor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274955346506-ebvargbigs1qpqbpsmg05etbdtk8e9aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrms.secufarmsurveyor",
+            "certificate_hash": "bae39e7bfc6efb307ed5fdabc466a5b920055b44"
+          }
+        },
+        {
+          "client_id": "274955346506-ah72s0bi3bub3masisnu71b671ho558o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXkfhVQ0UELgrygT1IeLecs8f2SjYYcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274955346506-ah72s0bi3bub3masisnu71b671ho558o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
